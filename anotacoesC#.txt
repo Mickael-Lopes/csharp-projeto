@@ -1,0 +1,5 @@
+dotnet new console // para criar um projeto no terminal
+
+dotnet run Program.cs // para executar o projeto no terminal
+
+console.writeline(" ") // imprimir na tela

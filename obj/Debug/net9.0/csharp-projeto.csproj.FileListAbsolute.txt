@@ -1,0 +1,14 @@
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\bin\Debug\net9.0\csharp-projeto.exe
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\bin\Debug\net9.0\csharp-projeto.deps.json
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\bin\Debug\net9.0\csharp-projeto.runtimeconfig.json
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\bin\Debug\net9.0\csharp-projeto.dll
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\bin\Debug\net9.0\csharp-projeto.pdb
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.AssemblyInfoInputs.cache
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.AssemblyInfo.cs
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.csproj.CoreCompileInputs.cache
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.dll
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\refint\csharp-projeto.dll
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.pdb
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.genruntimeconfig.cache
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\ref\csharp-projeto.dll

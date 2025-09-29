@@ -7,6 +7,7 @@ C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp
 C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.AssemblyInfoInputs.cache
 C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.AssemblyInfo.cs
 C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.csproj.CoreCompileInputs.cache
+C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.sourcelink.json
 C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.dll
 C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\refint\csharp-projeto.dll
 C:\Users\micka\OneDrive\Área de Trabalho\csharp-projeto\obj\Debug\net9.0\csharp-projeto.pdb

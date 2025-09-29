@@ -2,4 +2,61 @@ dotnet new console // para criar um projeto no terminal
 
 dotnet run Program.cs // para executar o projeto no terminal
 
-console.writeline(" ") // imprimir na tela
+Console.WriteLine(" ") // imprimir na tela
+
+-----------------------------------------------------------
+
+O processo de execução de um programa .net acontece em dois passos:
+
+1. compilação (processo que transforma o código C# escrito em uma saída).
+-Para compilar no terminal digite "dotnet build" (compilar todos os arquivos C# presentes no projeto).
+
+2. Execução (os arquivos finais que estão na pasta bin serão excutados por conta de uma máquina virtual chamada CLR)
+
+CLR - Common Language Runtime
+- Faz gerenciamento de mamória: gerencia a memória da aplicação alocando e desalocando objetos para mantê-la dentro dos limites
+
+- Faz seguração do código: impõe restrições e permissões para o código, garantindo que ele não faça nada malicioso
+
+-Tratamento de exceções: fornece mecanismo para lidar com erros em tempo de execução
+
+-Gerenciamento de Threads: cuida da execução paralela de tarefas
+
+-Execução: pega o código IL(linguagem intermediária) e o transforma em código de máquina, através do Just-in-Time compiler
+	(não compila todo o programa. Somente quando o método é chamado pela 1º vez)
+	(armazena em um cache e usa a versão compilada quando invocada novamente)
+
+Exemplo: se eu quiser executar um programa C# na máquina de um cliente, basta baixar o CLR que é próprio para execução. Não baixar SDK pois é um pacote mais abrangente e extenso (usado por desenvolvedores)
+---------------------------------------------------------------------------------------
+
+Link para acessar a documentação do .net CLI https://learn.microsoft.com/pt-br/dotnet/core/tools/
+
+	O dotnet CLI é uma ferramenta de desenvolvimento moderna, onde se começa o desenvolvimento do projeto pelo terminal, sua curva de aprendizagem é rápida. Os comandos utilizados são uniformes.
+
+	É automatizável: potencial para uso em pipelines e contêineres.
+	É extensível: permite instalar comandos próprios ou de terceiros.
+
+---------------------------------------------------------------------------------------
+A linguagem C# 
+- Fortemente inspirada no C++, Java e Orientada objetos(OO)
+- Linguagem gerenciada. Sem acesso direto a memória e hardware
+- Execução feita por um ambiente chamada .NET Framework
+
+Objetivos .NET Framework
+- permitir o uso de várias linguagens
+- biblioteca de classes padrão, rica
+- ambiente de execução gerenciado
+- integração profunda com o Windows
+
+---------------------------------------------------------------------------------------
+aprendendo usar funções em C#
+
+
+
+
+
+
+
+
+
+
